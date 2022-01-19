@@ -42,11 +42,13 @@ p{
     margin: 15px 0;
 }
 
-main>ul,
-main>ol,
-main>li {
-    padding-left: 30px;
-    margin: 15px 0;
+
+.lista-main>li {
+    margin-left:20px
+}
+
+.list-lettere{
+    margin-left:40px
 }
 
 footer{
@@ -71,4 +73,9 @@ footer{
 .logo-foot {
     margin-right: 10px;
     color:#3367d6
+}
+
+a{
+    color: #3367d6;
+    text-decoration: none;
 }
